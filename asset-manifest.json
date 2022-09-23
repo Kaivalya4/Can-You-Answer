@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Anime-quiz/static/css/main.6d45ce5e.css",
-    "main.js": "/Anime-quiz/static/js/main.86514372.js",
-    "static/js/787.cda612ba.chunk.js": "/Anime-quiz/static/js/787.cda612ba.chunk.js",
-    "static/media/background.png": "/Anime-quiz/static/media/background.41dbc5504a105eae7176.png",
-    "static/media/rainbow-text.png": "/Anime-quiz/static/media/rainbow-text.56b8f9b4363f31fabfd7.png",
-    "index.html": "/Anime-quiz/index.html",
-    "main.6d45ce5e.css.map": "/Anime-quiz/static/css/main.6d45ce5e.css.map",
-    "main.86514372.js.map": "/Anime-quiz/static/js/main.86514372.js.map",
-    "787.cda612ba.chunk.js.map": "/Anime-quiz/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/Can-You-Answer/static/css/main.38167db7.css",
+    "main.js": "/Can-You-Answer/static/js/main.bb3e1d3d.js",
+    "static/js/787.cda612ba.chunk.js": "/Can-You-Answer/static/js/787.cda612ba.chunk.js",
+    "static/media/background.png": "/Can-You-Answer/static/media/background.41dbc5504a105eae7176.png",
+    "static/media/rainbow-text.png": "/Can-You-Answer/static/media/rainbow-text.56b8f9b4363f31fabfd7.png",
+    "index.html": "/Can-You-Answer/index.html",
+    "main.38167db7.css.map": "/Can-You-Answer/static/css/main.38167db7.css.map",
+    "main.bb3e1d3d.js.map": "/Can-You-Answer/static/js/main.bb3e1d3d.js.map",
+    "787.cda612ba.chunk.js.map": "/Can-You-Answer/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d45ce5e.css",
-    "static/js/main.86514372.js"
+    "static/css/main.38167db7.css",
+    "static/js/main.bb3e1d3d.js"
   ]
 }
